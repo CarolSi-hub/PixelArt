@@ -1,5 +1,9 @@
 # PixelArt
 PixelArt Bloco5/Trybe
+
+https://carolsi-hub.github.io/Trybe-PixelArt/
+
+<img src="./pixer-art-main.png" width=600px /> <br><br>
 Projeto2 da śerie de 3 projetos final bloco_5/Trybe.
 O objetivo era criar um board de Pixels, com interações pré-definidas com o usuário.
 
